@@ -1,0 +1,6 @@
+native/*
+!native/build.rs
+!native/src
+!native/Cargo.toml
+
+node_modules
